@@ -1,0 +1,15 @@
+body {
+    background-color: #292525; 
+    color: aliceblue;
+}
+
+#main-content {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 5%;
+    padding-left: 400px;
+}
+
+
+.box {
+    
+}
